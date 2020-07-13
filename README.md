@@ -4,4 +4,5 @@
 1. Arranging Coins
 2. Binary Tree Level Order Traversal II
 3. Prison Cells After N Days
+4. Ugly Number
 5. Hamming Distance
