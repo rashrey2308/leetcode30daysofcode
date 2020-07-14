@@ -7,4 +7,5 @@
 4. Ugly Number
 5. Hamming Distance
 6. Plus One
+7. Island Perimeter
 14. Angle Between Hands of a Clock
