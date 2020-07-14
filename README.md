@@ -6,3 +6,4 @@
 3. Prison Cells After N Days
 4. Ugly Number
 5. Hamming Distance
+14. Angle Between Hands of a Clock
