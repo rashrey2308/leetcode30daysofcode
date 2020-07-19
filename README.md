@@ -13,3 +13,4 @@
 14. Angle Between Hands of a Clock
 15. Reverse Words in a String
 16. Pow(x,n)
+19. Add Binary
