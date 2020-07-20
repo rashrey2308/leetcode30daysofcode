@@ -14,3 +14,4 @@
 15. Reverse Words in a String
 16. Pow(x,n)
 19. Add Binary
+20. Remove Linked List Elements
